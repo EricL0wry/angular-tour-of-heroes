@@ -1,6 +1,6 @@
-# angular-tour-of-heroes
+# Tour of Heroes
 
-An Angular application built using the Angular tutorial at \*[angular.io/tutorial(https://angular.io/tutorial).
+An Angular application built using the Angular tutorial at [angular.io/tutorial](https://angular.io/tutorial).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
