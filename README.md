@@ -1,2 +1,3 @@
 # angular-tour-of-heroes
-An Angular docs build tutorial application
+
+An Angular application built using the Angular tutorial at *[angular.io/tutorial(https://angular.io/tutorial).
