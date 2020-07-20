@@ -1,10 +1,5 @@
 <div *ngIf="hero">
   <h2>{{ hero.name | uppercase }} Details</h2>
-  <label
-    >Hero name:
-    <input #heroName />
-  </label>
-  <button (click)="add(heroName.value); heroName.value = ''">add</button>
   <div><span>id: </span>{{ hero.id }}</div>
   <div>
     <label
